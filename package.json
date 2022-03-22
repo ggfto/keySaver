@@ -1,0 +1,17 @@
+{
+  "name": "vrp_manager",
+  "version": "1.0.0",
+  "description": "VRP Manager",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon --inspect ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G5",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-safe": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
