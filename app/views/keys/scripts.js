@@ -1,4 +1,4 @@
-var api = "http://localhost:8081/api/"
+var api = "http://144.22.209.208:8081/api/"
 $(document).ready(function() {
 	var actionContainer = $("#items");
     actionContainer.fadeIn();
